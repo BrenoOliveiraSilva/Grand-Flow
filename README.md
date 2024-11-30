@@ -1,10 +1,9 @@
 # Grand Flow - To Do List
 
 ## Integrantes do Grupo
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
+- Breno Oliveira da Silva  RA 12723131992
+- Bruno Oliveira Melo      RA 12723111120
+- Felipe Miranda Santana   RA 1271716805
 
 ## Sobre o Aplicativo
 Grand Flow é um aplicativo desenvolvido em Flutter para gerenciar suas tarefas de forma prática e eficiente. Com ele, você pode adicionar, editar e remover suas tarefas do dia a dia, mantendo-se organizado e produtivo.
